@@ -2,3 +2,5 @@
 
 На выполнение задания было дано 7 часов  
 Необходимо было разработать REST-ful API по ТЗ
+
+![image](https://github.com/Grapple228/If_Else_Stage_3/assets/97295498/05684856-5a70-43d4-b6b7-18a300637f21)
